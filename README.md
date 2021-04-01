@@ -1,5 +1,5 @@
 # country-code
-Workshop task for FlairsTech
+Workshop for FlairsTech
 
 
 # INSTRUCTIONS
